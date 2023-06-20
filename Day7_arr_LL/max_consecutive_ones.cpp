@@ -13,7 +13,6 @@ int longestSubSeg(vector<int> &arr, int n, int k)
 
         if (arr[i] == 0)
         {
-
             k--;
         }
 
